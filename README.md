@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/38d98a07-ec4b-4090-84e9-69dfb2e48fa0)# telematica
+
 Trabajo de telemática
 En master se encuentran los archivos main.py y dockerfile (no supe subirlo muy bien).
 
